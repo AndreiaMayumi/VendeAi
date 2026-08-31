@@ -1,2 +1,2 @@
-# Biblioteca
-Sistema de gerenciamento de uma biblioteca privada.
+# VendeAí
+Sistema de gerenciamento de vendas.
